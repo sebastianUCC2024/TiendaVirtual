@@ -1,0 +1,4 @@
+-r base.txt
+pytest==8.4.2
+pytest-django
+factory-boy
